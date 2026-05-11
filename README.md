@@ -14,3 +14,5 @@ This model identifies a **$269k+ incremental revenue opportunity** for Gotham FC
 * **Tableau:** Data visualization and dashboard interactivity.
 * **Excel:** Data cleaning and probabilistic attribution modeling.
 * **Data Source:** FBref (2025-2026 Home Match Datasets).
+
+**Author:** Allen Solomon
